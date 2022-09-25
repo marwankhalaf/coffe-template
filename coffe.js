@@ -1,3 +1,5 @@
+// start javascript
+
 let navbar = document.querySelector('.navbar');
 let searchForm = document.querySelector('.search-form');
 let cartItem = document.querySelector('.cart-items-container');
